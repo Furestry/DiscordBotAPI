@@ -1,5 +1,7 @@
+[![](https://jitpack.io/v/Furestry/DiscordBotAPI.svg)](https://jitpack.io/#Furestry/DiscordBotAPI)
+
 # Discord-Bot-API - JDA
-My official API (Wrapper) of JDA for Discord Bots mainly used on Minecraft servers.
+I just added the ability to use this API using Maven. Original - https://www.spigotmc.org/resources/discord-bot-api-jda.49783/
 
 * Downloads:
   * [Discord Bot API](https://drive.google.com/open?id=1CcFxBgPwmlsEq37rW7LsxwJqVfAxfm1b)
