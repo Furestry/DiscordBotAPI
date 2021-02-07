@@ -21,6 +21,7 @@
             <groupId>org.spongepowered</groupId>
             <artifactId>spongeapi</artifactId>
             <version>LATEST</version>
+            <type>jar</type>
             <scope>provided</scope>
         </dependency>
 
@@ -28,7 +29,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.13-R0.1-SNAPSHOT</version>
+            <version>1.16.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
@@ -59,8 +60,9 @@
 
         <!--Sponge API-->
         <repository>
-            <id>sponge</id>
-            <url>http://repo.spongepowered.org/maven</url>
+            <id>sponge-repo</id>
+            <name>Sponge Maven Repository</name>
+            <url>https://repo.spongepowered.org/maven</url>
         </repository>
 
         <!--Spigot API-->
