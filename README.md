@@ -3,9 +3,9 @@
 # Discord-Bot-API - JDA
 I just added the ability to use this API using Maven. Original - https://www.spigotmc.org/resources/discord-bot-api-jda.49783/
 
-#Install
+## Install
 
-###Add the following to your pom.xml if using Maven (click the little JitPack badge for other build systems):
+### Add the following to your pom.xml if using Maven (click the little JitPack badge for other build systems):
 
     <repository>
 	      <id>jitpack.io</id>
