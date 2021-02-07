@@ -15,7 +15,7 @@ I just added the ability to use this API using Maven. Original - https://www.spi
     <dependency>
 	      <groupId>com.github.Furestry</groupId>
 	      <artifactId>DiscordBotAPI</artifactId>
-	      <version>1.0.0</version>
+	      <version>d2ffa87c10</version>
     </dependency>
 
 
