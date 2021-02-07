@@ -18,6 +18,9 @@ I just added the ability to use this API using Maven. Original - https://www.spi
 	      <version>1.0.0</version>
     </dependency>
 
+
+## Original Description
+
 * Downloads:
   * [Discord Bot API](https://drive.google.com/open?id=1CcFxBgPwmlsEq37rW7LsxwJqVfAxfm1b)
   * Discord Bot API JavaDoc is currently unavailable.
