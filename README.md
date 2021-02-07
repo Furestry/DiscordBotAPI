@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/Furestry/DiscordBotAPI.svg)](https://jitpack.io/#Furestry/DiscordBotAPI)
 
-# Discord-Bot-API - JDA
+# DiscordBotAPI
 I just added the ability to use this API using Maven. Original - https://www.spigotmc.org/resources/discord-bot-api-jda.49783/
 
 ## Install
