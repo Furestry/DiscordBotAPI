@@ -3,7 +3,8 @@
 # Discord-Bot-API - JDA
 I just added the ability to use this API using Maven. Original - https://www.spigotmc.org/resources/discord-bot-api-jda.49783/
 
-Install
+*Install
+
 Add the following to your pom.xml if using Maven (click the little JitPack badge for other build systems):
 
 	<repository>
@@ -11,11 +12,11 @@ Add the following to your pom.xml if using Maven (click the little JitPack badge
 		   <url>https://jitpack.io</url>
 	</repository>
  
- <dependency>
+        <dependency>
 	    <groupId>com.github.Furestry</groupId>
 	    <artifactId>DiscordBotAPI</artifactId>
 	    <version>1.0.0</version>
- </dependency>
+        </dependency>
 
 * Downloads:
   * [Discord Bot API](https://drive.google.com/open?id=1CcFxBgPwmlsEq37rW7LsxwJqVfAxfm1b)
